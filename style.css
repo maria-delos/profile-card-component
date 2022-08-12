@@ -37,7 +37,7 @@ body{
 .photo{
     position: absolute;
     top: 86px;
-    right: 36%;
+    right: 35%;
     border: white 5px solid;
     border-radius: 50%;
     overflow: hidden;
