@@ -10,6 +10,8 @@ This is my solution to the Profile card component challenge on Frontend Mentor. 
 
 Build out the project to the designs provided.
 
+<img src="images/ScreenshotFrontend.png" alt="my project">
+
 Built with
 - Semantic HTML5 markup
 - CSS custom properties
