@@ -22,12 +22,12 @@ body{
 .card-container{
     margin: 170px auto 50px;
     width: 327px;
-    height: 377px;
+    height: 377px; 
     border-radius: 10px;
     overflow: hidden;
     position: relative;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-}
+    box-shadow: -0.625rem 1.25rem 1.875rem rgba(45 50 72 / 20%);
+} /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);   */
 
 .bubbles{
     background: url(images/bg-pattern-card.svg);
@@ -93,8 +93,14 @@ body{
     letter-spacing: 2px;
 }
 
-.attribution { font-size: 13px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+footer { 
+    font-size: 13px; 
+    text-align: center; 
+}
+
+footer a { 
+    color: hsl(228, 45%, 44%); 
+}
 
 .my-name{
     text-decoration: none;
